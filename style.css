@@ -1,9 +1,19 @@
 header {
-    background-color: crimson;
+    background-color: #EE316B;
     color:aliceblue;
 }
 
 body {
     text-align: center;
-    background-color: blanchedalmond;
+    background-color: #F0F7F1;
+}
+
+li {
+    position: relative;
+    display: inline-block;
+    background-color: #842D72;
+    border-radius: 10%;
+    font-size: 28px;
+    top: 12px;
+    width: 150px;
 }
