@@ -1,2 +1,2 @@
-# mah-websit
-Mostly to test HTML and CSS yaey
+# My own website!
+Look at it at https://rubicubie.github.io
