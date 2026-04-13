@@ -1,11 +1,42 @@
-header {
-    background-color: #EE316B;
-    color:aliceblue;
-}
-
 body {
     text-align: center;
     background-color: #F0F7F1;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+header {
+    background-color: #EE316B;
+    color:aliceblue;
+    margin-bottom: 25px;
+    position: sticky;
+    top: 0;
+}
+
+main {
+    margin: 20px;
+}
+
+h1, h2, h3 {
+    margin: 10px;
+}
+
+table {
+    margin: auto;
+    background-color: #EE316B;
+    border-radius: 10px;
+}
+
+td {
+    padding: 10px;
+    color: aliceblue;
+}
+
+a {
+    color:aliceblue;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 li {
@@ -16,4 +47,14 @@ li {
     font-size: 28px;
     top: 12px;
     width: 150px;
+}
+
+li:hover {
+    background-color: #4b0b3e;
+}
+
+.nav {
+    color: aliceblue;
+    text-decoration: none;
+    user-select: none;
 }
