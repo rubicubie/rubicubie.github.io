@@ -13,7 +13,8 @@ header {
 }
 
 main {
-    margin: 20px;
+    margin: 30px;
+    margin-top: 50px;
 }
 
 h1, h2, h3 {
@@ -57,4 +58,16 @@ li:hover {
     color: aliceblue;
     text-decoration: none;
     user-select: none;
+}
+
+.multitext {
+    display: inline-block;
+    margin:20px;
+    width: 800px;
+}
+#left {
+    margin-right: 10px;
+}
+#right {
+    margin-left: 10px;
 }
