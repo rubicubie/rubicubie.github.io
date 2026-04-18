@@ -54,6 +54,10 @@ li:hover {
     background-color: #4b0b3e;
 }
 
+img {
+    border-radius: 10px;
+}
+
 .nav {
     color: aliceblue;
     text-decoration: none;
