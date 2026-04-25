@@ -17,9 +17,12 @@ main {
     margin-top: 50px;
 }
 
+
+
 h1, h2, h3 {
     margin: 10px;
 }
+
 
 table {
     margin: auto;
@@ -29,9 +32,6 @@ td {
     padding: 10px;
 }
 
-a.white {
-    color:aliceblue;
-}
 
 a:hover {
     text-decoration: none;
@@ -79,6 +79,10 @@ td.colored {
 
 .tdmultitext {
     width: 20%;
+}
+
+a.white {
+    color:aliceblue;
 }
 
 /* Debug /*
