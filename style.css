@@ -29,7 +29,7 @@ td {
     padding: 10px;
 }
 
-a {
+a.white {
     color:aliceblue;
 }
 
@@ -59,6 +59,7 @@ img {
 
 .title {
     padding-top: 5px;
+    margin:0px;
 }
 
 .nav {
