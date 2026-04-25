@@ -67,12 +67,12 @@ img {
     user-select: none;
 }
 
-.contacts {
+table.colored {
     background-color: #EE316B;
     border-radius: 10px;
 }
 
-.tdcontacts {
+td.colored {
     color: aliceblue;
 }
 
