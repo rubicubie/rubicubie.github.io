@@ -13,7 +13,7 @@ header {
 }
 
 main {
-    margin: 30px;
+    margin: 80px;
     margin-top: 50px;
 }
 
@@ -23,13 +23,10 @@ h1, h2, h3 {
 
 table {
     margin: auto;
-    background-color: #EE316B;
-    border-radius: 10px;
 }
 
 td {
     padding: 10px;
-    color: aliceblue;
 }
 
 a {
@@ -58,20 +55,32 @@ img {
     border-radius: 10px;
 }
 
+/* Classes */
+
+.title {
+    padding-top: 5px;
+}
+
 .nav {
     color: aliceblue;
     text-decoration: none;
     user-select: none;
 }
 
-.multitext {
-    display: inline-block;
-    margin:20px;
-    width: 800px;
+.contacts {
+    background-color: #EE316B;
+    border-radius: 10px;
 }
-#left {
-    margin-right: 10px;
+
+.tdcontacts {
+    color: aliceblue;
 }
-#right {
-    margin-left: 10px;
+
+.tdmultitext {
+    width: 20%;
 }
+
+/* Debug /*
+* {
+    border: 1px solid green;
+  }
