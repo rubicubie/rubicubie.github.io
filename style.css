@@ -43,8 +43,16 @@ li {
     background-color: #842D72;
     border-radius: 10%;
     font-size: 28px;
-    top: 12px;
     width: 150px;
+}
+
+li.nav {
+    top: 12px;
+}
+
+li.table {
+    position:relative;
+    top: 340px;
 }
 
 li:hover {
